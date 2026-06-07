@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Jonathan+Nicolás+Olivares+Salinas;El+Vitas+%F0%9F%90%A7" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2650&pause=700&color=58A6FF&center=true&vCenter=true&width=550&lines=Jonathan+Nicolás+Olivares+Salinas;El+Vitas+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 **Software Engineer · Memorista Ing. Civil Informática, UTFSM**  
 Chile · Building at [Mactec](https://mactec.ai/)
